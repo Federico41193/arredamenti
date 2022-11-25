@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zona notte &#8211; Di Paolo Arredamenti</title>
+	<atom:link href="/category/zona-notte/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Un nuovo sito targato WordPress</description>
+	<lastBuildDate>Sat, 19 Nov 2022 09:47:05 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Flou</title>
+		<link>/marchi/flou/</link>
+		
+		<dc:creator><![CDATA[Federico]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 09:47:05 +0000</pubDate>
+				<category><![CDATA[Zona notte]]></category>
+		<guid isPermaLink="false">/?post_type=marchi&#038;p=103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lago</title>
+		<link>/marchi/lago/</link>
+		
+		<dc:creator><![CDATA[Federico]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 09:46:48 +0000</pubDate>
+				<category><![CDATA[Zona notte]]></category>
+		<guid isPermaLink="false">/?post_type=marchi&#038;p=102</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pianca</title>
+		<link>/marchi/pianca/</link>
+		
+		<dc:creator><![CDATA[Federico]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 09:46:33 +0000</pubDate>
+				<category><![CDATA[Zona notte]]></category>
+		<guid isPermaLink="false">/?post_type=marchi&#038;p=98</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cantori</title>
+		<link>/marchi/cantori/</link>
+		
+		<dc:creator><![CDATA[Federico]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 20:10:03 +0000</pubDate>
+				<category><![CDATA[Zona notte]]></category>
+		<guid isPermaLink="false">/?post_type=marchi&#038;p=80</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bonaldo</title>
+		<link>/marchi/bonaldo/</link>
+		
+		<dc:creator><![CDATA[Federico]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 19:41:59 +0000</pubDate>
+				<category><![CDATA[Zona notte]]></category>
+		<guid isPermaLink="false">/?post_type=marchi&#038;p=74</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

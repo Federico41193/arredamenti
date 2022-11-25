@@ -1,0 +1,221 @@
+/*  CUSTOM CODE */
+
+@media (min-width: 768px){
+
+.col-md-10 {
+    margin-left: 0px !important;
+}
+
+.service_box {
+    padding: 15px;
+}
+
+.service_box a img{
+     transition: all .5s;
+     margin-top: 20px;
+}
+
+.service_box a:hover img{
+     border-radius: 10%;
+     transform: scale(1.2);
+     cursor: pointer;
+     border:1px solid blue;
+}
+
+/* CODICE PER BOTTONE TORNA SU */
+
+#tornasu{
+position: fixed;
+bottom: 0px;
+right: 0px;
+display: none;
+padding:10px;
+background-color:blue;
+border-radius: 50%;
+}
+
+#tornasu i{
+     color:white;
+}
+
+#tornasu i:hover{
+     color:red;
+}
+
+/*********************/
+
+button.read {
+    padding: 2px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.read-more{
+     color:black;
+}
+
+#new :hover a.read-more:hover{
+     color:blue;
+
+}
+
+.titolo-marchi{
+     margin-bottom: 10px;
+}
+
+.titolo-pagina {
+    background-color: rgb(0 0 0 / 20%);
+}
+
+.titolo-pagina h1 {
+    padding:5px!important;
+}
+
+/* PAGINA MARCHI */
+
+.cat_title{
+     background-color:rgba(0, 0, 0, 0.45);
+     color:white;
+     margin:5px 0;
+}
+div.cucine{
+     background-image: url(https://www.outletarredamento.it/images/cucine/cucina-evo-cucine-lineare-mira-scontata_n1_857549.webp);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+
+div.illuminazione{
+     background-image: url(https://www.showgroup.it/wp-content/uploads/2020/06/Illuminazione-banner.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+
+div.salotti-divani{
+     background-image: url(https://www.arredamentipignataro.it/wp-content/uploads/2019/10/arredo-ampio-salotto.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+
+div.zona-notte{
+     background-image: url(https://www.bertani.it/media/cache/category_slider/c7/62/4706a8838506b34e41cbf216aa63.jpeg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+
+
+
+.carousel-wrap {
+  margin: 30px auto;
+  padding: 0 5%;
+  width: 80%;
+  position: relative;
+}
+
+/* fix blank or flashing items on carousel */
+.owl-carousel .item {
+  position: relative;
+  z-index: 100;
+  -webkit-backface-visibility: hidden;
+}
+
+/* end fix */
+
+.owl-nav {
+    text-align: center!important;
+}
+
+.owl-nav > div {
+  margin-top: -26px;
+  position: absolute;
+  top: 50%;
+  color: #cdcbcd;
+}
+
+.owl-nav i {
+  font-size: 52px;
+}
+
+.owl-nav .owl-prev {
+  left: -30px;
+}
+
+.owl-nav .owl-next {
+  right: -30px;
+}
+
+i.fa.fa-caret-right, i.fa.fa-caret-left {
+    color: firebrick;
+}
+
+i.fa.fa-caret-right:hover , i.fa.fa-caret-left:hover {
+    color: darkblue;
+}
+
+/* PAGINA PUNTI VENDITA */
+
+iframe{
+     width: 100%!important;
+}
+
+div.hide{
+     /* visibility: hidden; */
+     display:none;
+}
+
+h2.hide{
+     /* visibility: hidden; */
+     display:none;
+}
+
+div.punto_vendita{
+     margin: 10px auto;
+}
+
+div.info_punto{
+     margin-bottom: 10px;
+}
+
+div.bellante div.card{
+     border:1px solid #007bff;
+}
+div.bellante div.card a:hover{
+     color:#007bff !important;
+}
+
+div.pescara div.card{
+     border:1px solid #dc3545;
+}
+
+div.pescara div.card a:hover{
+     color:#dc3545 !important;
+}
+
+div.teramo div.card{
+     border:1px solid #ffc107;
+}
+
+div.teramo div.card a:hover{
+     color:#ffc107 !important;
+}
+
+div.sanbenedetto div.card{
+     border:1px solid #17a2b8;
+}
+
+div.sanbenedetto div.card a:hover{
+     color:#17a2b8 !important;
+}
+
+/* GALLERIA */
+
+div.title-cat{
+     margin-bottom: 5px;
+}
+
+.info{
+     color: black;
+}
