@@ -9,7 +9,7 @@
 
 <channel>
 	<title>marchi &#8211; Di Paolo Arredamenti</title>
-	<atom:link href="/marchi/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="marchi/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Sat, 19 Nov 2022 09:47:05 +0000</lastBuildDate>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Flou</title>
-		<link>/marchi/flou/</link>
+		<link>marchi/flou/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:47:05 +0000</pubDate>
 				<category><![CDATA[Zona notte]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=103</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=103</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -36,12 +36,12 @@
 			</item>
 		<item>
 		<title>Lago</title>
-		<link>/marchi/lago/</link>
+		<link>marchi/lago/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:46:48 +0000</pubDate>
 				<category><![CDATA[Zona notte]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=102</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=102</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,12 +51,12 @@
 			</item>
 		<item>
 		<title>Pianca</title>
-		<link>/marchi/pianca/</link>
+		<link>marchi/pianca/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:46:33 +0000</pubDate>
 				<category><![CDATA[Zona notte]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=98</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=98</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,12 +66,12 @@
 			</item>
 		<item>
 		<title>Foscarini</title>
-		<link>/marchi/foscarini/</link>
+		<link>marchi/foscarini/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:45:09 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=96</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=96</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,12 +81,12 @@
 			</item>
 		<item>
 		<title>Artemide</title>
-		<link>/marchi/artemide/</link>
+		<link>marchi/artemide/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:49 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=94</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=94</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,12 +96,12 @@
 			</item>
 		<item>
 		<title>Penta</title>
-		<link>/marchi/penta/</link>
+		<link>marchi/penta/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:34 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=92</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=92</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,12 +111,12 @@
 			</item>
 		<item>
 		<title>Murano Luce</title>
-		<link>/marchi/murano-luce/</link>
+		<link>marchi/murano-luce/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:08 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=90</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=90</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -126,12 +126,12 @@
 			</item>
 		<item>
 		<title>Cappellini</title>
-		<link>/marchi/cappellini/</link>
+		<link>marchi/cappellini/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:41:44 +0000</pubDate>
 				<category><![CDATA[Salotti/divani]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=88</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=88</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,12 +141,12 @@
 			</item>
 		<item>
 		<title>Campeggi</title>
-		<link>/marchi/campeggi/</link>
+		<link>marchi/campeggi/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:41:28 +0000</pubDate>
 				<category><![CDATA[Salotti/divani]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=86</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=86</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -156,12 +156,12 @@
 			</item>
 		<item>
 		<title>Biesse</title>
-		<link>/marchi/biesse/</link>
+		<link>marchi/biesse/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:40:24 +0000</pubDate>
 				<category><![CDATA[Salotti/divani]]></category>
-		<guid isPermaLink="false">/?post_type=marchi&#038;p=84</guid>
+		<guid isPermaLink="false">?post_type=marchi&#038;p=84</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

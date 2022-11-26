@@ -16,17 +16,17 @@
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
-@import url(/wp-content/themes/arredamenti/css/animate.min.css);
-@import url(/wp-content/themes/arredamenti/css/normalize.css);
-@import url(/wp-content/themes/arredamenti/css/icomoon.css);
-@import url(/wp-content/themes/arredamenti/css/font-awesome.min.css);
-@import url(/wp-content/themes/arredamenti/css/meanmenu.css);
-@import url(/wp-content/themes/arredamenti/css/owl.carousel.min.css);
-@import url(/wp-content/themes/arredamenti/css/swiper.min.css);
-@import url(/wp-content/themes/arredamenti/css/slick.css);
-@import url(/wp-content/themes/arredamenti/css/jquery.fancybox.min.css);
-@import url(/wp-content/themes/arredamenti/css/jquery-ui.css);
-@import url(/wp-content/themes/arredamenti/css/nice-select.css);
+@import url(wp-content/themes/arredamenti/css/animate.min.css);
+@import url(wp-content/themes/arredamenti/css/normalize.css);
+@import url(wp-content/themes/arredamenti/css/icomoon.css);
+@import url(wp-content/themes/arredamenti/css/font-awesome.min.css);
+@import url(wp-content/themes/arredamenti/css/meanmenu.css);
+@import url(wp-content/themes/arredamenti/css/owl.carousel.min.css);
+@import url(wp-content/themes/arredamenti/css/swiper.min.css);
+@import url(wp-content/themes/arredamenti/css/slick.css);
+@import url(wp-content/themes/arredamenti/css/jquery.fancybox.min.css);
+@import url(wp-content/themes/arredamenti/css/jquery-ui.css);
+@import url(wp-content/themes/arredamenti/css/nice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
@@ -304,7 +304,7 @@ button {
 
 .banner {
      /* position: relative; */
-     /* background: url(/wp-content/themes/arredamenti/images/banner1.jpg); */
+     /* background: url(wp-content/themes/arredamenti/images/banner1.jpg); */
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -486,7 +486,7 @@ button {
 .about_img::before {
      position: absolute;
      content: "";
-     background: url(/wp-content/themes/arredamenti/images/vg.png);
+     background: url(wp-content/themes/arredamenti/images/vg.png);
      top: 0;
      height: 100%;
      width: 452px;
@@ -889,7 +889,7 @@ button {
 /** contact section **/
 
 .contact {
-     /* background: url(/wp-content/themes/arredamenti/images/conatct.jpg); */
+     /* background: url(wp-content/themes/arredamenti/images/conatct.jpg); */
      background-color: rgb(84, 83, 83);
      background-size: 100% 100%;
      background-repeat: no-repeat;

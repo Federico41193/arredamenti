@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Interior Design &#8211; Di Paolo Arredamenti</title>
-	<atom:link href="/category/interior-design/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="category/interior-design/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Wed, 23 Nov 2022 20:04:26 +0000</lastBuildDate>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>6</title>
-		<link>/galleria/6/</link>
+		<link>galleria/6/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Wed, 23 Nov 2022 19:58:06 +0000</pubDate>
 				<category><![CDATA[Interior Design]]></category>
-		<guid isPermaLink="false">/?post_type=galleria&#038;p=133</guid>
+		<guid isPermaLink="false">?post_type=galleria&#038;p=133</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -36,12 +36,12 @@
 			</item>
 		<item>
 		<title>5</title>
-		<link>/galleria/5/</link>
+		<link>galleria/5/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Tue, 22 Nov 2022 18:22:46 +0000</pubDate>
 				<category><![CDATA[Interior Design]]></category>
-		<guid isPermaLink="false">/?post_type=galleria&#038;p=132</guid>
+		<guid isPermaLink="false">?post_type=galleria&#038;p=132</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,12 +51,12 @@
 			</item>
 		<item>
 		<title>2</title>
-		<link>/galleria/41/</link>
+		<link>galleria/41/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2022 21:15:53 +0000</pubDate>
 				<category><![CDATA[Interior Design]]></category>
-		<guid isPermaLink="false">/?post_type=galleria&#038;p=41</guid>
+		<guid isPermaLink="false">?post_type=galleria&#038;p=41</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,12 +66,12 @@
 			</item>
 		<item>
 		<title>1</title>
-		<link>/galleria/1/</link>
+		<link>galleria/1/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2022 21:15:38 +0000</pubDate>
 				<category><![CDATA[Interior Design]]></category>
-		<guid isPermaLink="false">/?post_type=galleria&#038;p=40</guid>
+		<guid isPermaLink="false">?post_type=galleria&#038;p=40</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
