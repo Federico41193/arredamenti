@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Illuminazione &#8211; Di Paolo Arredamenti</title>
-	<atom:link href="category/illuminazione/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/arredamenti/category/illuminazione/feed/" rel="self" type="application/rss+xml" />
+	<link>/arredamenti</link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Sat, 19 Nov 2022 09:45:09 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Foscarini</title>
-		<link>marchi/foscarini/</link>
+		<link>/arredamenti/marchi/foscarini/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:45:09 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">?post_type=marchi&#038;p=96</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=marchi&#038;p=96</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -36,12 +36,12 @@
 			</item>
 		<item>
 		<title>Artemide</title>
-		<link>marchi/artemide/</link>
+		<link>/arredamenti/marchi/artemide/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:49 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">?post_type=marchi&#038;p=94</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=marchi&#038;p=94</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,12 +51,12 @@
 			</item>
 		<item>
 		<title>Penta</title>
-		<link>marchi/penta/</link>
+		<link>/arredamenti/marchi/penta/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:34 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">?post_type=marchi&#038;p=92</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=marchi&#038;p=92</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,12 +66,12 @@
 			</item>
 		<item>
 		<title>Murano Luce</title>
-		<link>marchi/murano-luce/</link>
+		<link>/arredamenti/marchi/murano-luce/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Sat, 19 Nov 2022 09:44:08 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">?post_type=marchi&#038;p=90</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=marchi&#038;p=90</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,12 +81,12 @@
 			</item>
 		<item>
 		<title>Flos</title>
-		<link>marchi/flos/</link>
+		<link>/arredamenti/marchi/flos/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Thu, 17 Nov 2022 20:08:59 +0000</pubDate>
 				<category><![CDATA[Illuminazione]]></category>
-		<guid isPermaLink="false">?post_type=marchi&#038;p=78</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=marchi&#038;p=78</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

@@ -16,17 +16,17 @@
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
-@import url(wp-content/themes/arredamenti/css/animate.min.css);
-@import url(wp-content/themes/arredamenti/css/normalize.css);
-@import url(wp-content/themes/arredamenti/css/icomoon.css);
-@import url(wp-content/themes/arredamenti/css/font-awesome.min.css);
-@import url(wp-content/themes/arredamenti/css/meanmenu.css);
-@import url(wp-content/themes/arredamenti/css/owl.carousel.min.css);
-@import url(wp-content/themes/arredamenti/css/swiper.min.css);
-@import url(wp-content/themes/arredamenti/css/slick.css);
-@import url(wp-content/themes/arredamenti/css/jquery.fancybox.min.css);
-@import url(wp-content/themes/arredamenti/css/jquery-ui.css);
-@import url(wp-content/themes/arredamenti/css/nice-select.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/animate.min.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/normalize.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/icomoon.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/font-awesome.min.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/meanmenu.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/owl.carousel.min.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/swiper.min.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/slick.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/jquery.fancybox.min.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/jquery-ui.css);
+@import url(/arredamenti/wp-content/themes/arredamenti/css/nice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
@@ -304,11 +304,11 @@ button {
 
 .banner {
      /* position: relative; */
-     /* background: url(wp-content/themes/arredamenti/images/banner1.jpg); */
+     /* background: url(/arredamenti/wp-content/themes/arredamenti/images/banner1.jpg); */
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
-     min-height: 804px;
+     height: 600px;
      padding-top: 17%;
 }
 
@@ -486,7 +486,7 @@ button {
 .about_img::before {
      position: absolute;
      content: "";
-     background: url(wp-content/themes/arredamenti/images/vg.png);
+     background: url(/arredamenti/wp-content/themes/arredamenti/images/vg.png);
      top: 0;
      height: 100%;
      width: 452px;
@@ -574,6 +574,13 @@ button {
      transition: all .5s;
 }
 
+@media (max-width:575px) {
+     .gallery .gallery_img figure img {
+          width: 100%;
+          min-height: auto;
+          transition: all .5s;
+     }
+}
 .gallery .gallery_img figure img:hover {
      transform: scale(1.2);
      cursor: pointer;
@@ -889,7 +896,7 @@ button {
 /** contact section **/
 
 .contact {
-     /* background: url(wp-content/themes/arredamenti/images/conatct.jpg); */
+     /* background: url(/arredamenti/wp-content/themes/arredamenti/images/conatct.jpg); */
      background-color: rgb(84, 83, 83);
      background-size: 100% 100%;
      background-repeat: no-repeat;

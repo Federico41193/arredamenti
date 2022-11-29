@@ -249,7 +249,7 @@
         float: right;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(wp-content/themes/arredamenti/images/menu_icon.png);
+        background: url(/arredamenti/wp-content/themes/arredamenti/images/menu_icon.png);
         background-repeat: no-repeat;
     }
     .d_none {
@@ -267,8 +267,8 @@
         width: 140px;
     }
     .banner {
-        min-height: 550px;
         padding-top: 37%;
+        height: auto;
     }
     .text-bg h1 {
         font-size: 44px;
@@ -282,7 +282,7 @@
         right: 25%;
     }
     #myCarousel a.carousel-control-prev {
-        left: 45%;
+        left: 32.5%;
     }
     #myCarousel .carousel-control-prev:hover,
     #myCarousel .carousel-control-prev:focus {
@@ -379,7 +379,7 @@
         margin-top: -71px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(wp-content/themes/arredamenti/images/menu_icon.png);
+        background: url(/arredamenti/wp-content/themes/arredamenti/images/menu_icon.png);
         background-repeat: no-repeat;
     }
     .d_none {

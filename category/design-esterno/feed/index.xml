@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Design esterno &#8211; Di Paolo Arredamenti</title>
-	<atom:link href="category/design-esterno/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/arredamenti/category/design-esterno/feed/" rel="self" type="application/rss+xml" />
+	<link>/arredamenti</link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Tue, 15 Nov 2022 20:26:37 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>4</title>
-		<link>galleria/4/</link>
+		<link>/arredamenti/galleria/4/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2022 21:34:43 +0000</pubDate>
 				<category><![CDATA[Design esterno]]></category>
-		<guid isPermaLink="false">?post_type=galleria&#038;p=44</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=galleria&#038;p=44</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -36,12 +36,12 @@
 			</item>
 		<item>
 		<title>3</title>
-		<link>galleria/3/</link>
+		<link>/arredamenti/galleria/3/</link>
 		
 		<dc:creator><![CDATA[Federico]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2022 21:16:31 +0000</pubDate>
 				<category><![CDATA[Design esterno]]></category>
-		<guid isPermaLink="false">?post_type=galleria&#038;p=42</guid>
+		<guid isPermaLink="false">/arredamenti/?post_type=galleria&#038;p=42</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
