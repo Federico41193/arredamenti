@@ -1,6 +1,5 @@
 $(document).ready(function() {
      $('.bellante').on('click', function(){
-          console.log($(this).val());
           $('div.bellante').removeClass('hide');
           $('div.pescara').addClass('hide');
           $('div.teramo').addClass('hide');

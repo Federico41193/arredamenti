@@ -220,8 +220,23 @@ div.title-cat{
      color: black;
 }
 
-
-
-
-
 /* CUSTOM CODE PER MOBILE */
+
+@media (min-width:576px){
+     button.about-us{
+          display: none;
+     }
+}
+
+@media (max-width:576px){
+     div.nascosto{
+          display: none;
+     }
+     div.button-about{
+          margin-top: 50px;
+          height: 0;
+     }
+     button.nascosto{
+          display:none!important;
+     }
+}
