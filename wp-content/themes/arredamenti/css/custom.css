@@ -21,7 +21,7 @@
      cursor: pointer;
      border:1px solid blue;
 }
-
+}
 /* CODICE PER BOTTONE TORNA SU */
 
 #tornasu{
@@ -163,7 +163,7 @@ iframe{
 
 div.hide{
      /* visibility: hidden; */
-     display:none;
+     display:none !important;
 }
 
 h2.hide{
