@@ -226,6 +226,9 @@ div.title-cat{
      button.about-us{
           display: none;
      }
+     button.nascosto{
+          display:none!important;
+     }
 }
 
 @media (max-width:576px){
